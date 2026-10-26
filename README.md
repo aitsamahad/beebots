@@ -1,5 +1,21 @@
 # beebots 🐝
 
+> [!IMPORTANT]
+> **Experiment concluded: -21.4% in 30 days of real money.**
+> From 25 Sep to 26 Oct 2026 the three official bees traded $999 of real money on OKX. They ended at $785.16, and the AI
+> calls cost another $42.35 on top. Boozy lost 46%, Bizzy 15%, Breezy 3%. Every number is in the write-up, along with
+> the 200,000 coin-flip bots I ran as a control:
+>
+> - **Read the full result:** [Do AI Trading Bots Work? A Real-Money Test](https://creatormagic.ai/blog/do-ai-trading-bots-work/)
+> - **Watch the video:** [youtu.be/bp_u9Gzp1OU](https://youtu.be/bp_u9Gzp1OU)
+>
+> **Read this before you run it.** The code still works and stays here as a record of how it was built, but it is no
+> longer maintained. It made no money for me, and nothing about it suggests it will for you. Run it on paper (the
+> default). If you switch it to real money anyway, only use money you are happy to lose.
+>
+> beebots.tech now redirects to the write-up, and **the Hive leaderboard is closed**. A self-hosted install keeps
+> trading on paper as before, but joining the Hive does nothing.
+
 [![Watch the video: I built AI trading bees with Jev](docs/video.jpg)](https://www.youtube.com/watch?v=8ijN8LGljKg)
 
 Three AI trading bees race each other on OKX perpetual futures. Their moves are picked by an AI model, **Gemini 4
